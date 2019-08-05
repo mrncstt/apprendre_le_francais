@@ -5,13 +5,14 @@
 
 Useful stuffs that will help me (and probably you - I hope so) to learn French.
 
-* [Blogs and Website](#blogs-and-website)
+* [Class Notes](#Class-Notes)
 * [Chrome Extensions](#chrome-extensions)
 * [Courses](#courses)
 * [E-Books](#e-books)
 * [Games](#games)
 * [Translators](#translators)
 * [Videos](#videos)
+* [Blogs and Website](#blogs-and-website)
 
 ## Class notes
 
