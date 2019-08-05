@@ -1,6 +1,6 @@
 # Learning French :fr:
 
-<img src="https://drive.google.com/file/d/1MZP9TVJvxPqkY96nlYS3a44PX9WSfLIS/view" />
+<img src="https://drive.google.com/file/d/1MZP9TVJvxPqkY96nlYS3a44PX9WSfLIS/" />
 
 Useful stuffs that will help me (and probably you - I hope so) to learn French.
 
