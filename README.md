@@ -17,7 +17,7 @@ Useful stuffs that will help me (and probably you - I hope so) to learn French.
 ## Class notes
 
 * [Class notes](https://github.com/mrncstt/apprendre_le_francais/tree/master/ClassNotes)
-### [Lesson 1] (https://github.com/mrncstt/apprendre_le_francais/blob/master/ClassNotes/Lesson_1.md)
+### [Lesson 1] (https://github.com/mrncstt/apprendre_le_francais/blob/master/ClassNotes/Lesson_1.md)<br>
 
 * 
 
