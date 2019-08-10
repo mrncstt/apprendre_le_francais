@@ -6,14 +6,17 @@
 Useful stuffs that will help me (and probably you - I hope so) to learn French.
 
 * [Class Notes](#Class-Notes)
-* [Chrome Extensions](#chrome-extensions)
+* [Dictionary](#Dictionary)
 * [Courses](#courses)
 * [E-Books](#e-books)
-* [Games](#games)
 * [Translators](#translators)
-* [Videos](#videos)
-* [Blogs and Website](#blogs-and-website)
+
 
 ## [Class notes](https://github.com/mrncstt/apprendre_le_francais/tree/master/ClassNotes)
 
 ### [Lesson 1](https://github.com/mrncstt/apprendre_le_francais/blob/master/ClassNotes/Lesson_1.md)
+### [Lesson 2](https://github.com/mrncstt/apprendre_le_francais/blob/master/ClassNotes/Lesson_2.md)
+
+## [Dictionary](https://www.estantevirtual.com.br/livros/michaelis/michaelis-minidicionario-frances-portugues-portugues-frances/1408502833)
+
+## [Courses](https://www.cchla.ufrn.br/dllem/agora.html)
