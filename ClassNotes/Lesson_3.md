@@ -1,9 +1,9 @@
 
 # Lesson 3
 
-## (Bonjour!Bonsoir!Bonnenuit!) 
-## Je m'appelle Mariana, et vous?
 
+## Quel est ton numéro de téléphone?
+## Tu fais quoi dans la vie?
 
 
 ### Les chiffres
