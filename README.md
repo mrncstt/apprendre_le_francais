@@ -8,7 +8,6 @@ Useful stuffs that will help me (and probably you - I hope so) to learn French.
 * [Class Notes](#Class-Notes)
 * [Dictionary](#Dictionary)
 * [Courses](#courses)
-* [E-Books](#e-books)
 * [Translators](#translators)
 
 
@@ -16,7 +15,11 @@ Useful stuffs that will help me (and probably you - I hope so) to learn French.
 
 #### [Lesson 1](https://github.com/mrncstt/apprendre_le_francais/blob/master/ClassNotes/Lesson_1.md)
 #### [Lesson 2](https://github.com/mrncstt/apprendre_le_francais/blob/master/ClassNotes/Lesson_2.md)
+#### [Lesson 3](https://github.com/mrncstt/apprendre_le_francais/blob/master/ClassNotes/Lesson_3.md)
+#### [Lesson 4](https://github.com/mrncstt/apprendre_le_francais/blob/master/ClassNotes/Lesson_4.md)
 
 ## [Dictionary](https://www.estantevirtual.com.br/livros/michaelis/michaelis-minidicionario-frances-portugues-portugues-frances/1408502833)
 
 ## [Courses](https://www.cchla.ufrn.br/dllem/agora.html)
+
+## [Translators](https://translate.google.com.br/?hl=pt-BR#view=home&op=translate&sl=en&tl=fr)
