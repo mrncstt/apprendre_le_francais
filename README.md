@@ -17,6 +17,8 @@ Useful stuffs that will help me (and probably you - I hope so) to learn French.
 #### [Lesson 2](https://github.com/mrncstt/apprendre_le_francais/blob/master/ClassNotes/Lesson_2.md)
 #### [Lesson 3](https://github.com/mrncstt/apprendre_le_francais/blob/master/ClassNotes/Lesson_3.md)
 #### [Lesson 4](https://github.com/mrncstt/apprendre_le_francais/blob/master/ClassNotes/Lesson_4.md)
+#### [Lesson_5]❌  Missed Class
+#### [Lesson 6](https://github.com/mrncstt/apprendre_le_francais/blob/master/ClassNotes/Lesson_6.md)
 
 ## [Dictionary](https://www.estantevirtual.com.br/livros/michaelis/michaelis-minidicionario-frances-portugues-portugues-frances/1408502833)
 
