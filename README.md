@@ -9,6 +9,7 @@ Useful stuffs that will help me (and probably you - I hope so) to learn French.
 * [Dictionary](#Dictionary)
 * [Courses](#courses)
 * [Translators](#translators)
+* [Podcast](#Podcast)
 
 
 ## [Class notes](https://github.com/mrncstt/apprendre_le_francais/tree/master/ClassNotes)
@@ -25,3 +26,7 @@ Useful stuffs that will help me (and probably you - I hope so) to learn French.
 ## [Courses](https://www.cchla.ufrn.br/dllem/agora.html)
 
 ## [Translators](https://translate.google.com.br/?hl=pt-BR#view=home&op=translate&sl=en&tl=fr)
+
+## [Podcast](https://www.newsinslowfrench.com/)
+
+
