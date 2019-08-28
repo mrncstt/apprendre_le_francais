@@ -38,7 +38,7 @@ Le terme francophonie est apparu pour la première fois vers 1880, lorsqu’un g
 
 
 ## Devoirs
-- [ ] Pour fixer 13 p. 41
-- [ ]  Activite 3 et le "point langue" de la page 35
+- [x] Pour fixer 13 p. 41
+- [x]  Activite 3 et le "point langue" de la page 35
 - [ ] Activite 14,15 et 16 page 41
 
