@@ -1,0 +1,51 @@
+# Lesson 8
+
+
+aujourd'hui - mercredi - vingt-hout août deux mille  deux-neuf
+
+## Quel est le mois?
+:fr: | pt |
+:-------: | ------:|
+janvier |janeiro |
+févries |fevereiro
+mars|março|
+avril | abril|
+mai|maio
+juin|junho
+juillet|julho
+août| agosto
+septembre|setembro
+outobre|outubro
+november | novembro
+décembre | dezembro
+
+##Activité: jouer une personne célèbre
+
+###Jacques Brel
+
+Q: Quel est votre prénom?
+R: Je m'appelle Jacques.
+
+Q: Quel est votre énom?
+R: mon nom est Brel.
+
+Q:Quelle est votre nationalité?
+R:Je suis belge.
+
+Q:Quelle est votre date de naissance?
+R:Je suis né huit avril mil neuf cent vingt neuf
+
+Q:Quel est votre âge?
+R: J'ai quatre-vingt-dix ans. (but he already died)
+
+#### translate 
+:fr: | Significado | Sinonimo
+:-------: | ------: | ------:
+hord    | fora | |
+n'importe quel | qualquer um |
+le couer  | coração |
+
+
+
+## Devoirs
+- [ ] à partir de ce qu'on a étudie,écrivez un petit texte pour présenter votre ville/pays préféré(e), (le numéro d'habitantes, pourqoui vous l'aimez, quelles sont les attractions principales, ect). écrire au moins un paragraphe(7-10 lignes) 
