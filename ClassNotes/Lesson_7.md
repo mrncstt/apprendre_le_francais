@@ -1,7 +1,7 @@
 # Lesson 7
 
 
-aujourd'hui - mercredi - vingt six août deux mille  deux-neuf
+aujourd'hui - lundi - vingt six août deux mille  deux-neuf
 
 ## adjectifs possessifs et 
 ### Donner des informations - comment dire une information?
