@@ -33,8 +33,8 @@ les guimet   <> | Aspas"": usam do modo como usamos as aspas |
 serveur  | garçom |
 
 ##### francophonie 
-(https://www.francophonie.org/)
-Le terme francophonie est apparu pour la première fois vers 1880, lorsqu’un géographe français, Onesime Reclus, l’utilise pour désigner l’ensemble des personnes et des pays parlant le français. On parle désormais de francophonie avec un « f » minuscule pour désigner les locuteurs de français et de Francophonie avec un « F » majuscule pour figurer le dispositif institutionnel organisant les relations entre les pays francophones.
+https://www.francophonie.org/
+-Le terme francophonie est apparu pour la première fois vers 1880, lorsqu’un géographe français, Onesime Reclus, l’utilise pour désigner l’ensemble des personnes et des pays parlant le français. On parle désormais de francophonie avec un « f » minuscule pour désigner les locuteurs de français et de Francophonie avec un « F » majuscule pour figurer le dispositif institutionnel organisant les relations entre les pays francophones.
 
 
 ## Devoirs
