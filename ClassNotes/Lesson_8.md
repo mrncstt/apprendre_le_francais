@@ -21,6 +21,20 @@ outobre|outubro
 november | novembro
 décembre | dezembro
 
+## Exprimer une passion/un rêve
+
+### Le présent des verbe en -er
+. | rêv  -er | * la même prononciation|
+:-------: | ------:|------:|
+Je |rêv**e** |* |
+Tu |rêv**es** |* |
+Il/Elle|rêv**e** |* |
+Nous | rêv**ons** | |
+Vous|rêv**ez** | |
+Ils/Elles|rêv**ent** |* |
+
+
+
 ## Activité: jouer une personne célèbre
 
 ### Jacques Brel
