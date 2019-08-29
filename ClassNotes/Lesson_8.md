@@ -19,9 +19,9 @@ outobre|outubro
 november | novembro
 décembre | dezembro
 
-##Activité: jouer une personne célèbre
+## Activité: jouer une personne célèbre
 
-###Jacques Brel
+### Jacques Brel
 
 Q: Quel est votre prénom?
 R: Je m'appelle Jacques.
@@ -29,13 +29,13 @@ R: Je m'appelle Jacques.
 Q: Quel est votre énom?
 R: mon nom est Brel.
 
-Q:Quelle est votre nationalité?
-R:Je suis belge.
+Q: Quelle est votre nationalité?
+R: Je suis belge.
 
-Q:Quelle est votre date de naissance?
-R:Je suis né huit avril mil neuf cent vingt neuf
+Q: Quelle est votre date de naissance?
+R: Je suis né huit avril mil neuf cent vingt neuf
 
-Q:Quel est votre âge?
+Q: Quel est votre âge?
 R: J'ai quatre-vingt-dix ans. (but he already died)
 
 #### translate 
