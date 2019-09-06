@@ -25,22 +25,31 @@ Indéfinis | lieu |
 Il y a| une université |
 :arrow_up:| des reparts
 
+
+Définis | lieu | 
+:-------: | ------: | 
+C'est | le musée Camile Pissaro | 
+C'est| la cathédrale Saint-Maclou |
+Ce sont| les remparts de l'ancie château
+
 #### Demander/Donner une explication
 - *Pourqoui* aimez-vous ce lieu?
 - *Parce que* j'adore la peinture
 
 
 #### traduire | translate | traduzir
-:fr: | :en: | Significado
+:fr: | en | pt
 :-------: | ------: | ------:
-Moyeage    |  | |
-Segneur| |
-Cher|  |  |
-Mépri|  |  |
-Pauuteté|  |  |
-Pas Cher | |
-Chaus | |
+Moyen Age    | Middle Ages | idade média|
+Segneur| lord | senhor
+Cher| expensive| caro |  |
+Pauvreté|  | pobreza  |
+Pas Cher | menos caro|
 Lieu/endroit | place | lugar
 Proche | Close | Próximo
+Suivante | Next | Próximo
+endroit | Place | Lugar
+Le centre ville| The city center|O centro da cidade
+le banlieue | the suburbs| o subúrbio
 
 
