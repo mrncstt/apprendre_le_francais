@@ -20,8 +20,23 @@ ________
 ________
  mercredi - 4/09/2019
 ________
-- [ ] p. 58 q. 1, 2, 3
-## leçon 1
+- p. 58 
+- [x] q. 1
+- [x] q. 2
+- [x] q. 3
+
+- 1. Q. Pourquoi habitez-vous à Pontoise?
+- 1. R. Parce que je suis étudiant à l'université de Cergy-Pontoise.
+- 2. Q. Pourqoui êtes-vous au théâtre de L'Apostrophe, ce soir?
+- 2. R. Parce que j'adore les spectacles de danse.
+- 3. Q. Pourqoui photographiez-vous la cathédrale?
+- 3. R. Parce qu'elle a une belle architecture.
+- 4. Q. Pourqoui aimez-vous Pissaro?
+- 4. R. Parce que c'est un peintre impressionniste.
+- 5. Q. Pourquoi y a-t-il un pont sur le blason de la ville de Pontoise?
+- 5. R. Parce que la ville se trouve sur la rivière Oise.
+- 6. Q. Pourqoui visitez-vous les remparts?
+- 6. R. Parce que j'aime les liuex historiques.
 
 
 - [x] p. 45 q. 3
