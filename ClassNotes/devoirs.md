@@ -47,3 +47,7 @@ ________
 - photo 4: la cathédrale Saint-Maclou
 - photo 5: un jardin
 - photo 6: un rivière
+
+--------
+09/09/2019
+- [ ] page 58 activité 4 et 6
