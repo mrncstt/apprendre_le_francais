@@ -25,6 +25,7 @@ Useful stuffs that will help me (and probably you - I hope so) to learn French.
 #### [Lesson 8](https://github.com/mrncstt/apprendre_le_francais/blob/master/ClassNotes/Lesson_8.md)
 #### [Lesson 9](https://github.com/mrncstt/apprendre_le_francais/blob/master/ClassNotes/Lesson_9.md)
 #### [Lesson 10](https://github.com/mrncstt/apprendre_le_francais/blob/master/ClassNotes/Lesson_10.md)
+#### [Lesson 11](https://github.com/mrncstt/apprendre_le_francais/blob/master/ClassNotes/Lesson_11.md)
 
 ## [Book](https://www.languagebooks.com.au/book/alter-ego-plus-a1-a2-guide-pedagogique.do)
 
