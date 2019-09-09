@@ -15,6 +15,10 @@ Départ | 101 |
 
 ![escargot](https://user-images.githubusercontent.com/14565450/64449639-c8066b80-d0b6-11e9-9f7d-9e3b2b23f4b0.jpg)
 
+
+## C'est quoi un bidonville?
+[1 jour, 1 question - bidonville](https://www.youtube.com/channel/UCLmlUMA_bGiMWWgfDwfNDgw "1 jour, 1 question - bidonville")
+
 ## page 45
 ### Point langue
 ####  Les articles définis et indéfinis pour nommer des liuex dans la ville
