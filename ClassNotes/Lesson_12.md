@@ -47,7 +47,7 @@ le lit | o frio |
 la chaise  | o calor |
 la chambre | o quarto |
 samedi prochain | sábado que vem |
-20| boa negociação
+
 
 
 
